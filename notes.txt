@@ -1,0 +1,2 @@
+used autocannon from the command line to test the performance of the microservice.
+
