@@ -32,7 +32,7 @@ urls.forEach(url => {
     });
 
     autocannon.track(instance, {
-        renderProgressBar: false,
+        renderProgressBar: true,
         renderResultsTable: false,
         renderLatencyTable: false
     });
