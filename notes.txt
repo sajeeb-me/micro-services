@@ -1,2 +1,2 @@
-used autocannon from the command line to test the performance of the microservice.
-
+- used autocannon from the command line to test the performance of the microservice.
+- used morgan middleware for logging HTTP requests and responses in the microservice.
