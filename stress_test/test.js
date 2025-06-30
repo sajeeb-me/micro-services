@@ -2,7 +2,7 @@ const autocannon = require('autocannon');
 
 const urls = [
     'http://localhost:3000',
-    'http://localhost:3000/health',
+    'http://localhost:3000/stress',
 ]
 const duration = 30; // Duration of the test in seconds
 
